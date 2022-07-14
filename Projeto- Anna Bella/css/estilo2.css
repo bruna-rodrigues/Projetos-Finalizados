@@ -1,0 +1,51 @@
+
+a{
+	color: #4b566a;
+	text-decoration: none; 
+}
+
+
+a:link, a:visited{
+	color: #4b566a ;
+}
+
+a:hover{
+	color: white;
+}
+
+h2{
+	color: #828271;
+	font-size: 1.2em;
+}
+
+body{
+	background: #CCC;
+	font: 16px Arial, Helvetica, sans-serif;
+}
+
+img{
+	border: 10px solid white;
+
+}
+
+
+#rodape{
+	text-align: center;
+}
+
+#conteudo{
+	background:  #e8e8d9;
+	padding: 10px;
+	margin: 10px;
+
+}
+
+#principal{
+	width: 900px;
+}
+
+#menu{
+	background: #c5c5b2;
+	padding: 18px;
+}
+
